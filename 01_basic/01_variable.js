@@ -1,4 +1,6 @@
 //variables
+// in programing language we provide memory space to store data and we can later used that data by referring to the memory space.
+// this container that hold value or data is called variable. we can use variables to store data and later we can use that data by referring to the variable name.
 
 const accountId = 123456;
 let accountEmail = "coder@gmail.com";
