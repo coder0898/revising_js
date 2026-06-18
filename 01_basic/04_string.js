@@ -9,8 +9,9 @@ const lastname = new String("programmer");
 // console.log(lastname);
 //here we are using String object to create a string.
 
-//For adding tmore than one string we traditionally used '+' operator for concatenation.
+//For adding more than one string we traditionally used '+' operator for concatenation.
 // console.log(firstName + " " + lastname);
+
 // however in modern JavaScript we use another way called string interpolation using template literals. Template literals are enclosed by backticks (`) and allow us to embed expressions inside the string using ${} syntax.
 // console.log(`${firstName} ${lastname}`);
 // using this it become clean and more readable and we can easily embed any expression inside the string without worrying about the concatenation and spacing.
